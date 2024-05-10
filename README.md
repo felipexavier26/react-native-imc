@@ -13,7 +13,6 @@ Este é um aplicativo React Native simples para calcular o Índice de Massa Corp
 
 Recursos principais:
 <ul dir="auto">
-  <li><a href="https://expo.io/" rel="nofollow">Expo</a></li
 <li>Interface de usuário simples e intuitiva</li>
 <li>Funcionalidade de cálculo automático do IMC</li>
 <li>Adaptação para dispositivos móveis</li> 
