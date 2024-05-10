@@ -1,7 +1,3 @@
-✨ <h1> Tecnologias</h1>
-Esse projeto foi desenvolvido com as seguintes tecnologias:
-<ul dir="auto">
-<li><a href="https://expo.io/" rel="nofollow">Expo</a></li><li><a href="https://reactnative.dev/" rel="nofollow">React Native</a></li>
 
 
 ✨ <h1> Tecnologias</h1>
