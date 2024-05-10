@@ -12,7 +12,7 @@ Recursos principais:
 <ul dir="auto">
 <li>Interface de usuário simples e intuitiva<</li>
 <li>Funcionalidade de cálculo automático do IMC<</li>
-<li>Adaptação para dispositivos móveis<</li>
+<li>Adaptação para dispositivos móveis<</li> </ul>
 
 
 
