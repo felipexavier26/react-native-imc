@@ -1,3 +1,11 @@
+✨ Tecnologias
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+<hr>
+
+React Native
+Expo
+💻 Projeto
+<hr>
 Este é um aplicativo React Native simples para calcular o Índice de Massa Corporal (IMC). Ele permite que os usuários insiram seu peso e altura e calcula automaticamente o IMC com base nesses valores. Este projeto foi desenvolvido como parte de um exercício de aprendizado de React Native.
 
 Recursos principais:
