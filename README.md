@@ -15,7 +15,7 @@ Recursos principais:
 <li>Interface de usuário simples e intuitiva</li>
 <li>Funcionalidade de cálculo automático do IMC</li>
 <li>Adaptação para dispositivos móveis</li> 
-
+<br>
 
 
 ![Captura de tela 2024-05-10 202619](https://github.com/felipexavier26/react-native-imc/assets/103685054/366a21f9-9f8a-46a3-89af-e0e2907be381)
